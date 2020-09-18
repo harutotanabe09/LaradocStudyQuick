@@ -133,6 +133,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -147,11 +152,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600264106241</updated>
-      <workItem from="1600264110260" duration="1998000" />
+      <workItem from="1600264110260" duration="7583000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600436571292">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="458" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.814@0.23.1440.814" timestamp="1600436571292" />
+    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1600437343895">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1600437343895" />
   </component>
 </project>

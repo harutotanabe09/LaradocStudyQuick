@@ -37,7 +37,7 @@ docker-compose exec workspace bash
 
 # Set Up Database
 
-Edit File 
+Edit File
 
 ```diff
 -DB_CONNECTION=mysql
@@ -75,3 +75,21 @@ docker system prune
 docker rmi $(docker images -q)
 ```
 
+# Create Test Code
+
+```sh
+php artisan make:test UserTest --unit
+```
+
+# Run Test code
+
+```sh
+php artisan test
+
+php artisan key:generate --env=testing
+
+php artisan migrate --env=testing
+
+php artisan make:test Database/DatabaseTest
+
+```
