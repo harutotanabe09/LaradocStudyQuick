@@ -9,6 +9,7 @@ use Tests\TestCase;
 
 class DatabaseTest extends TestCase
 {
+    // テストデータを保存しない
     use RefreshDatabase;
 
     public function setUp(): void
@@ -57,6 +58,4 @@ class DatabaseTest extends TestCase
             'title' => "TEST"
         ]);
     }
-
-
 }

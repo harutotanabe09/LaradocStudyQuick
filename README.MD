@@ -93,3 +93,39 @@ php artisan migrate --env=testing
 php artisan make:test Database/DatabaseTest
 
 ```
+
+# いろいろポイントメモ
+
+- ControllerのCRUDを一気に作成
+
+```sh
+php artisan make:controller BookController --resource
+```
+
+- キャッシュクリア
+
+```sh
+php artisan route:clear
+```
+
+- サービスクラス
+
+AppServiceProviderにサービスクラスを追加
+
+```php
+protected $service;
+
+public function __construct(TestService $service)
+{
+    $this->service = $service;
+}
+```
+
+- テスト実行
+
+```sh
+php artisan test
+```
+
+- テストメソッドは、testとプレフィックス必要
+

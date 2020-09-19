@@ -130,11 +130,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/emails" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Books" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/book" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/emails" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -152,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600264106241</updated>
-      <workItem from="1600264110260" duration="7583000" />
+      <workItem from="1600264110260" duration="15160000" />
     </task>
     <servers />
   </component>
@@ -160,13 +166,19 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600436571292">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="458" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600515277556">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="458" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.814@0.23.1440.814" timestamp="1600436571292" />
-    <state x="385" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1600437343895">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="458" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1600515277556" />
+    <state x="458" y="192" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600515823839">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="458" y="192" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600515823839" />
+    <state x="385" y="162" width="670" height="682" key="search.everywhere.popup" timestamp="1600515871954">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="385" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1600437343895" />
+    <state x="385" y="162" width="670" height="682" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1600515871954" />
   </component>
 </project>
